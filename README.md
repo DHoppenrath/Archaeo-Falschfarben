@@ -42,7 +42,7 @@ All Python dependencies are installed automatically on first launch.
 
 That's it. The script will:
 - Create a virtual environment (`venv/`)
-- Install all dependencies once (~150 MB)
+- Install all dependencies once (~650 MB)
 - Launch the application
 
 For subsequent launches, `start.bat` starts immediately.
