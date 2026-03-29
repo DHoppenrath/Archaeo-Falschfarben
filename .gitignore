@@ -26,6 +26,11 @@ venv/.deps_ok
 Thumbs.db
 desktop.ini
 
+# Copilot / VS Code AI
+.copilot-instructions.md
+.github/copilot-instructions.md
+.instructions.md
+
 # Editor
 .vscode/
 .idea/
